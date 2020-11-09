@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/shivamm0007/netflix-clone-reactapp.git/static/css/main.bd47a357.chunk.css",
+    "main.js": "/shivamm0007/netflix-clone-reactapp.git/static/js/main.9a8b47b3.chunk.js",
+    "main.js.map": "/shivamm0007/netflix-clone-reactapp.git/static/js/main.9a8b47b3.chunk.js.map",
+    "runtime-main.js": "/shivamm0007/netflix-clone-reactapp.git/static/js/runtime-main.83cb36c3.js",
+    "runtime-main.js.map": "/shivamm0007/netflix-clone-reactapp.git/static/js/runtime-main.83cb36c3.js.map",
+    "static/js/2.2c5b2d5c.chunk.js": "/shivamm0007/netflix-clone-reactapp.git/static/js/2.2c5b2d5c.chunk.js",
+    "static/js/2.2c5b2d5c.chunk.js.map": "/shivamm0007/netflix-clone-reactapp.git/static/js/2.2c5b2d5c.chunk.js.map",
+    "static/js/3.315b2a6e.chunk.js": "/shivamm0007/netflix-clone-reactapp.git/static/js/3.315b2a6e.chunk.js",
+    "static/js/3.315b2a6e.chunk.js.map": "/shivamm0007/netflix-clone-reactapp.git/static/js/3.315b2a6e.chunk.js.map",
+    "index.html": "/shivamm0007/netflix-clone-reactapp.git/index.html",
+    "static/css/main.bd47a357.chunk.css.map": "/shivamm0007/netflix-clone-reactapp.git/static/css/main.bd47a357.chunk.css.map",
+    "static/js/2.2c5b2d5c.chunk.js.LICENSE.txt": "/shivamm0007/netflix-clone-reactapp.git/static/js/2.2c5b2d5c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.83cb36c3.js",
+    "static/js/2.2c5b2d5c.chunk.js",
+    "static/css/main.bd47a357.chunk.css",
+    "static/js/main.9a8b47b3.chunk.js"
+  ]
+}
